@@ -1,0 +1,353 @@
+{
+    "en": {
+        "head_top": {
+            "time": "Mon - Sat: 8.00 am - 6.00 pm",
+            "con": "+1 (346) 564-5712 (24/7 Emergency Plumbing & Electrical)"
+        },
+
+        "header": {
+            "nav_home": "Home",
+            "nav_about": "About Us",
+            "nav_contact": "Contact",
+            "nav_service": "Services",
+            "nav_project": "Projects",
+
+            "hx_about": "About Us",
+            "hx_service": "Our Services",
+            "hx_project": "Our Projects",
+            "hx_contact": "Contact Us"
+        },
+
+        "intro": {
+            "title1": "Built right. Every time.",
+            "text1": "From kitchens to custom built-ins, and everything in between — we bring craftsmanship, care, and creativity to every corner of your home.",
+
+            "title2": "Built right. Every time.",
+            "text2": "Reliable craftsmanship for every project — from flooring and painting to full kitchen and bathroom remodels.",
+
+            "title3": "Built right. Every time.",
+            "text3": "Your home, upgraded — with expert care in every detail, from quick fixes to complete transformations.",
+
+            "form_title": "Request a Free Quote",
+            "form_name": "Your Name*",
+            "form_phone": "Your Phone Number*",
+            "form_email": "Your Email*",
+            "form_message": "Message...",
+            "form_send": "Send Now",
+
+            "demo": "See Live Demo..."
+        },
+         
+        "who_we_are":{
+            "sub_title": "About Our Company",
+            "title": "Who We Are",
+            "text": "At Refined Construction and Remodeling, we’re passionate about turning houses into homes. With years of experience and a skilled team of professionals, we offer a full range of services—from custom cabinetry, flooring, and painting to full kitchen and bathroom remodels. Whether it’s a small handyman fix or a complete home transformation, we bring the same level of care, precision, and professionalism to every project.<br><br>We believe in quality craftsmanship, clear communication, and creating spaces that reflect your style and meet your needs. Our goal is simple: to make your vision a reality and ensure you're proud of where you live.",
+            "btn": "More About Us"
+        },
+
+        "services": {
+            "sub_title": "What We Do",
+            "title": "Our Services",
+
+            "ser_title1": "Cabinets",
+            "ser_text1": "Custom or pre-fabricated, our cabinet solutions are designed to enhance storage, function, and style in any space.",
+            
+            "ser_title2": "Painting (Interior & Exterior)",
+            "ser_text2": "From freshening up walls to transforming exteriors, our painting services bring color, protection, and new life to your home.",
+
+            "ser_title3": "Flooring",
+            "ser_text3": "We install and refinish a wide range of flooring types—hardwood, tile, laminate, and more—for beauty that’s built to last.",
+
+            "ser_title4": "Custom Built-Ins",
+            "ser_text4": "Maximize space and style with tailor-made built-ins that blend seamlessly into your home’s design and needs.",
+
+            "ser_title5": "Plumbing",
+            "ser_text5": "From repairs to installations, our licensed plumbing team ensures reliable water flow and efficient systems throughout your home.",
+
+            "ser_title6": "Electrical",
+            "ser_text6": "Safe, code-compliant, and efficient—our electrical services cover lighting, outlets, panel upgrades, and more.",
+
+            "ser_title7": "Bathroom Remodel",
+            "ser_text7": "Create your ideal bathroom with our full remodel services—combining comfort, function, and elegant finishes.",
+
+            "ser_title8": "Kitchen Remodel",
+            "ser_text8": "We transform kitchens into stunning, functional spaces tailored to your cooking and entertaining style.",
+
+            "ser_title9": "Handyman",
+            "ser_text9": "Quick fixes, small repairs, or odd jobs—our handyman services take care of the little things that make a big difference."
+        },
+
+        "about_us": {
+            "sub_title": "About Our Company",
+            "title": "Who We Are",
+            "text": "At Refined Construction and Remodeling, we’re more than just builders—we’re passionate artisans dedicated to turning houses into homes where memories are made and life is lived to the fullest. With years of hands-on experience and a highly skilled team of professionals, we’ve built a reputation for excellence, reliability, and customer satisfaction.<br><br>We offer a comprehensive range of services tailored to meet the unique needs of each client. From custom cabinetry that adds both elegance and function, to beautifully installed flooring that ties a room together, and from expertly applied interior and exterior painting to full-scale kitchen and bathroom remodels—we do it all. No job is too big or too small. Whether you're looking for a quick handyman fix or a complete home transformation, we approach every project with the same attention to detail, level of care, and professional integrity.<br><br>What truly sets us apart is our commitment to quality craftsmanship and open, honest communication throughout every step of the process. We take the time to listen, understand your vision, and collaborate closely with you to create spaces that not only look incredible but also reflect your personality and suit your lifestyle.<br><br>At Refined Construction and Remodeling, our goal is simple: to bring your dream space to life while making the process smooth, transparent, and enjoyable. We want you to feel proud of your home—not just when the project is finished, but for years to come."
+        },
+
+        "projects": {
+            "ser_all": "All",
+
+            "ser_title1": "Cabinets",
+            "ser_title2": "Painting (Interior & Exterior)",
+            "ser_title3": "Flooring",
+            "ser_title4": "Custom Built-Ins",
+            "ser_title5": "Plumbing",
+            "ser_title6": "Electrical",
+            "ser_title7": "Bathroom Remodel",
+            "ser_title8": "Kitchen Remodel",
+            "ser_title9": "Handyman",
+
+            "inner_title": "Vehicle repair service"
+        },
+
+        "counter": {
+            "count_1": "Experts",
+            "count_2": "Satisfied Customers",
+            "count_3": "Years of Experience",
+            "count_4": "Successful Projects"
+        },
+
+        "our_team": {
+            "sub_title": "Meet Our Experts",
+            "title": "Our Awesome Team"
+        },
+        
+        "cen_form": {
+            "title": "Book an Appointment",
+
+            "name": "Your Name*",
+            "phone": "Your Phone Number*",
+            "email": "Your Email*",
+            "descr": "Description...",
+            "send": "Send Message",
+
+            "ser_title1": "Cabinets",
+            "ser_title2": "Painting (Interior & Exterior)",
+            "ser_title3": "Flooring",
+            "ser_title4": "Custom Built-Ins",
+            "ser_title5": "Plumbing",
+            "ser_title6": "Electrical",
+            "ser_title7": "Bathroom Remodel",
+            "ser_title8": "Kitchen Remodel",
+            "ser_title9": "Handyman"
+        },
+
+        "con_form": {
+            "title": "Get In Touch",
+
+            "name": "Your Name*",
+            "phone": "Your Phone Number*",
+            "email": "Your Email*",
+            "subject": "Subject",
+            "message": "Your Message...",
+            "send": "Send Message",
+
+            "addr_title1": "Call Us Now",
+            "addr_title2": "Email Us Today",
+            "addr_title3": "Our Location"
+        },
+
+        "footer": {
+            "text": "“All services provided by Refined Construction and Remodeling are subject to availability and an initial assessment. Estimates are non-binding and may change based on on-site evaluations, material costs, or unforeseen conditions. While we strive to maintain accurate timelines and pricing, adjustments may occur and will be communicated promptly. Refined Construction and Remodeling is fully licensed and insured, but is not liable for delays caused by weather, third-party vendors, or circumstances beyond our control.”",
+
+            "office_title": "Our Office",
+
+            "address": "2800 Broadway Street, Suite C <br>Pearland, TX 77581",
+            "phone": "Phone:",
+            "email":"Email:",
+            "work_time1": "Mon - Fri:",
+            "work_time2": "Sat:",
+            "work_time3": "Sun: Closed",
+
+            "services_title": "Services",
+
+            "ser_title1": "Cabinets",
+            "ser_title2": "Painting (Interior & Exterior)",
+            "ser_title3": "Flooring",
+            "ser_title4": "Custom Built-Ins",
+            "ser_title5": "Plumbing",
+            "ser_title6": "Electrical",
+            "ser_title7": "Bathroom Remodel",
+            "ser_title8": "Kitchen Remodel",
+            "ser_title9": "Handyman"
+
+        }
+    },
+
+
+    "es": {
+        "head_top": {
+            "time": "lun - sáb: 8.00 am - 6.00 pm",
+            "con": "+1 (346) 564-5712 (Servicios de Plomería y Electricidad de Emergencia 24/7)"
+        },
+
+        "header": {
+            "nav_home": "INICIO",
+            "nav_about": "SOBRE NOSOTROS",
+            "nav_contact": "CONTACTO",
+            "nav_service": "SERVICIOS",
+            "nav_project": "PROYECTOS",
+
+            "hx_about": "Sobre nosotros",
+            "hx_service": "Nuestros servicios",
+            "hx_project": "Nuestros proyectos",
+            "hx_contact": "Contáctanos"
+        },
+
+        "intro": {
+            "title1": "Construido a la perfección. Siempre.",
+            "text1": "Desde cocinas hasta estructuras a medida, incluyendo todo lo que puedas imaginar, aportamos artesanía, dedicación y creatividad a cada rincón de tu hogar.",
+
+            "title2": "Construido a la perfección. Siempre.",
+            "text2": "Artesanía confiable para cada proyecto — desde pisos y pintura hasta remodelaciones completas de cocinas y baños.",
+
+            "title3": "Construido a la perfección. Siempre.",
+            "text3": "Tu hogar, renovado — con atención experta en cada detalle, desde arreglos rápidos hasta remodelaciones completas.",
+
+            "form_title": "Solicite una cotización gratuita",
+            "form_name": "Su nombre*",
+            "form_phone": "Su número de teléfono*",
+            "form_email": "Su email*",
+            "form_message": "Déjenos un mensaje...",
+            "form_send": "Enviar ahora",
+
+            "demo": "Ver demostración en vivo..."
+        },
+         
+        "who_we_are":{
+            "sub_title": "Sobre Nuestra Compañía",
+            "title": "Quiénes Somos",
+            "text": "En Refined Construction and Remodeling, nos apasiona transformar casas en hogares. Contamos con años de experiencia y un equipo de profesionales altamente capacitados, ofreciendo una amplia variedad de servicios, desde gabinetes personalizados, pisos y pintura hasta remodelaciones completas de cocinas y baños. Ya sea una reparación pequeña o una renovación integral de su hogar, tratamos cada proyecto con el mismo nivel de dedicación, precisión y profesionalismo.<br><br>Creemos en la excelencia artesanal, la comunicación efectiva y en crear espacios que reflejen su estilo y satisfagan sus necesidades. Nuestro objetivo es sencillo: hacer realidad su visión y asegurarnos de que se sienta orgulloso del lugar en el que vive.",
+            "btn": "Más sobre nosotros"
+        },
+
+        "services": {
+            "sub_title": "Lo que hacemos",
+            "title": "Nuestros servicios",
+
+            "ser_title1": "Gabinetes",
+            "ser_text1": "Ya sean personalizados o prefabricados, nuestras soluciones de gabinetes están diseñadas para optimizar el almacenamiento, la funcionalidad, el estilo y el uso del espacio.",
+            
+            "ser_title2": "Pintura (interior y exterior)",
+            "ser_text2": "Desde renovar las paredes hasta transformar los exteriores, nuestros servicios de pintura ofrecen color, protección y un nuevo estilo para su hogar.",
+
+            "ser_title3": "Pisos",
+            "ser_text3": "Instalamos y renovamos una amplia variedad de pisos — madera, cerámica, laminado y más—para lograr una belleza duradera.",
+
+            "ser_title4": "Estructuras a Medida",
+            "ser_text4": "Maximice el espacio y el estilo con estructuras a medida, diseñadas para integrarse perfectamente en el diseño y las necesidades de su hogar.",
+
+            "ser_title5": "Plomería",
+            "ser_text5": "Desde reparaciones hasta instalaciones, nuestro equipo de fontaneros con licencia garantiza un flujo de agua confiable y sistemas eficientes en toda su vivienda.",
+
+            "ser_title6": "Electricidad",
+            "ser_text6": "Seguros, conforme al código y eficientes: nuestros servicios eléctricos abarcan iluminación, tomacorrientes, actualizaciones de paneles y más.",
+
+            "ser_title7": "Remodelación de baños",
+            "ser_text7": "Cree su baño ideal con nuestros servicios completos de remodelación, combinando confort, funcionalidad y acabados elegantes.",
+
+            "ser_title8": "Remodelación de Cocina",
+            "ser_text8": "Transformamos cocinas en espacios impresionantes y funcionales, diseñados a medida según su estilo de cocina y entretenimiento.",
+
+            "ser_title9": "Servicios de Mantenimiento",
+            "ser_text9": "Arreglos rápidos, reparaciones pequeñas o trabajos diversos—nuestros servicios de reparaciones se encargan de esos pequeños detalles que marcan una gran diferencia."
+        },
+
+        "about_us": {
+            "sub_title": "Sobre Nuestra Compañía",
+            "title": "Quiénes Somos",
+            "text": "En Refined Construction and Remodeling, somos mucho más que contratistas: somos artesanos apasionados, dedicados a transformar casas en hogares donde se crean recuerdos y se vive plenamente. Con años de experiencia práctica y un equipo altamente capacitado de profesionales, hemos construido una reputación basada en la excelencia, la confiabilidad y la satisfacción del cliente.<br><br>Ofrecemos una gama completa de servicios adaptados a las necesidades únicas de cada cliente. Desde gabinetes a medida que combinan elegancia y practicidad, hasta pisos que dan unidad a cada ambiente, pasando por pintura interior y exterior de alta calidad, hasta remodelaciones completas de cocinas y baños. Ningún proyecto es demasiado grande o pequeño: ya sea una reparación puntual o una renovación total, trabajamos con la misma dedicación, atención al detalle y profesionalismo.<br><br>Lo que nos diferencia es nuestra pasión por la excelencia y una comunicación clara y honesta en cada etapa del proceso. Escuchamos tus ideas, entendemos tu visión y trabajamos contigo para crear espacios únicos, funcionales y con estilo—lugares que realmente se sientan como tu hogar.<br><br>En Refined Construction and Remodeling, nuestro objetivo es simple: dar vida al espacio que siempre has soñado, haciendo que el proceso sea fluido, transparente y agradable. Queremos que te sientas orgulloso de tu hogar, no solo al finalizar el proyecto, sino durante muchos años más."
+        },
+
+        "projects": {
+            "ser_all": "Todos",
+            
+            "ser_title1": "Gabinetes",
+            "ser_title2": "Pintura (interior y exterior)",
+            "ser_title3": "Pisos",
+            "ser_title4": "Estructuras a medida",
+            "ser_title5": "Plomería",
+            "ser_title6": "Electricidad",
+            "ser_title7": "Remodelación de baños",
+            "ser_title8": "Remodelación de cocinas",
+            "ser_title9": "Servicios de Mantenimiento",
+
+            "inner_title": "Servicio de reparación de vehículos"
+        },
+
+
+        "counter": {
+            "count_1": "Expertos",
+            "count_2": "Clientes Satisfechos",
+            "count_3": "Años de Experiencia",
+            "count_4": "Proyectos Exitosos"
+        },
+
+        "our_team": {
+            "sub_title": "Conoce a Nuestros Expertos",
+            "title": "Nuestro Gran Equipo"
+        },
+        
+        "cen_form": {
+            "title": "Agende una Cita",
+
+            "name": "Su Nombre*",
+            "phone": "Su Número de Teléfono*",
+            "email": "Su Email*",
+            "descr": "Descripción...",
+            "send": "Enviar Mensaje",
+
+            "ser_title1": "Gabinetes",
+            "ser_title2": "Pintura (interior y exterior)",
+            "ser_title3": "Pisos",
+            "ser_title4": "Estructuras a medida",
+            "ser_title5": "Plomería",
+            "ser_title6": "Electricidad",
+            "ser_title7": "Remodelación de baños",
+            "ser_title8": "Remodelación de cocinas",
+            "ser_title9": "Trabajos de mantenimiento general"
+        },
+
+        "con_form": {
+            "title": "Póngase en Contacto",
+
+            "name": "Su Nombre*",
+            "phone": "Su Número de Teléfono*",
+            "email": "Su Email*",
+            "subject": "Asunto",
+            "message": "Déjenos un mensaje...",
+            "send": "Enviar ahora",
+
+            "addr_title1": "Llámenos Ahora",
+            "addr_title2": "Envíenos un Correo",
+            "addr_title3": "Nuestra Ubicación"
+        },
+
+        "footer": {
+            "text": "“Todos los servicios de Refined Construction and Remodeling dependen de la disponibilidad y de una evaluación inicial. Los presupuestos no son definitivos y pueden cambiar según lo que se observe en el lugar, el costo de los materiales o situaciones inesperadas. Aunque trabajamos para cumplir con los tiempos y precios acordados, pueden haber cambios, los cuales serán informados a tiempo. Refined Construction and Remodeling cuenta con licencia y seguro, pero no se hace responsable por retrasos causados por el clima, proveedores externos o circunstancias fuera de nuestro control.”",
+
+            "office_title": "Nuestra Oficina",
+            
+            "address": "2800 Broadway Street, Suite C <br>Pearland, TX 77581",
+            "phone": "Teléfono:",
+            "email":"Email:",
+            "work_time1": "Lunes a Viernes:",
+            "work_time2": "Sábado:",
+            "work_time3": "Domingo: Cerrado",
+
+            "services_title": "Services",
+
+            "ser_title1": "Gabinetes",
+            "ser_title2": "Pintura (interior y exterior)",
+            "ser_title3": "Pisos",
+            "ser_title4": "Estructuras a medida",
+            "ser_title5": "Plomería",
+            "ser_title6": "Electricidad",
+            "ser_title7": "Remodelación de baños",
+            "ser_title8": "Remodelación de cocinas",
+            "ser_title9": "Trabajos de mantenimiento general"
+
+        }
+    }
+
+
+}
