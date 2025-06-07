@@ -108,7 +108,16 @@
 
         "our_team": {
             "sub_title": "Meet Our Experts",
-            "title": "Our Awesome Team"
+            "title": "Our Awesome Team",
+
+            "name1": "Walter",
+            "profession1": "Crew Foreman",
+
+            "name2": "Miguel",
+            "profession2": "Owner/Project Manager",
+
+            "name3":"Yadira",
+            "profession3":"Assistant/Supervisor"
         },
         
         "cen_form": {
@@ -176,7 +185,7 @@
 
     "es": {
         "head_top": {
-            "time": "lun - sáb: 8.00 am - 6.00 pm",
+            "time": "Lunes a sábado: 8:00 a.m. – 6:00 p.m.",
             "con": "+1 (346) 564-5712 (Servicios de Plomería y Electricidad de Emergencia 24/7)"
         },
 
@@ -187,7 +196,7 @@
             "nav_service": "SERVICIOS",
             "nav_project": "PROYECTOS",
 
-            "hx_about": "Sobre nosotros",
+            "hx_about": "Sobre Nosotros",
             "hx_service": "Nuestros servicios",
             "hx_project": "Nuestros proyectos",
             "hx_contact": "Contáctanos"
@@ -217,7 +226,7 @@
             "sub_title": "Sobre Nuestra Compañía",
             "title": "Quiénes Somos",
             "text": "En Refined Construction and Remodeling, nos apasiona transformar casas en hogares. Contamos con años de experiencia y un equipo de profesionales altamente capacitados, ofreciendo una amplia variedad de servicios, desde gabinetes personalizados, pisos y pintura hasta remodelaciones completas de cocinas y baños. Ya sea una reparación pequeña o una renovación integral de su hogar, tratamos cada proyecto con el mismo nivel de dedicación, precisión y profesionalismo.<br><br>Creemos en la excelencia artesanal, la comunicación efectiva y en crear espacios que reflejen su estilo y satisfagan sus necesidades. Nuestro objetivo es sencillo: hacer realidad su visión y asegurarnos de que se sienta orgulloso del lugar en el que vive.",
-            "btn": "Más sobre nosotros"
+            "btn": "Más Sobre Nosotros"
         },
 
         "services": {
@@ -243,7 +252,7 @@
             "ser_text6": "Seguros, conforme al código y eficientes: nuestros servicios eléctricos abarcan iluminación, tomacorrientes, actualizaciones de paneles y más.",
 
             "ser_title7": "Remodelación de baños",
-            "ser_text7": "Cree su baño ideal con nuestros servicios completos de remodelación, combinando confort, funcionalidad y acabados elegantes.",
+            "ser_text7": "Cree el baño de sus sueños con nuestros servicios completos de remodelación, combinando comodidad, funcionalidad y acabados elegantes.",
 
             "ser_title8": "Remodelación de Cocina",
             "ser_text8": "Transformamos cocinas en espacios impresionantes y funcionales, diseñados a medida según su estilo de cocina y entretenimiento.",
@@ -284,7 +293,17 @@
 
         "our_team": {
             "sub_title": "Conoce a Nuestros Expertos",
-            "title": "Nuestro Gran Equipo"
+            "title": "Nuestro Gran Equipo",
+
+            "name1": "Walter",
+            "profession1": "Jefe de Cuadrilla",
+
+            "name2": "Miguel",
+            "profession2": "Dueño/Gerente de Proyecto",
+
+            "name3":"Yadira",
+            "profession3":"Asistente/Supervisora"
+            
         },
         
         "cen_form": {
@@ -318,7 +337,7 @@
             "send": "Enviar ahora",
 
             "addr_title1": "Llámenos Ahora",
-            "addr_title2": "Envíenos un Correo",
+            "addr_title2": "Envíenos un Email",
             "addr_title3": "Nuestra Ubicación"
         },
 
@@ -334,7 +353,7 @@
             "work_time2": "Sábado:",
             "work_time3": "Domingo: Cerrado",
 
-            "services_title": "Services",
+            "services_title": "Servicios",
 
             "ser_title1": "Gabinetes",
             "ser_title2": "Pintura (interior y exterior)",
@@ -344,7 +363,7 @@
             "ser_title6": "Electricidad",
             "ser_title7": "Remodelación de baños",
             "ser_title8": "Remodelación de cocinas",
-            "ser_title9": "Trabajos de mantenimiento general"
+            "ser_title9": "Servicios de mantenimiento"
 
         }
     }
