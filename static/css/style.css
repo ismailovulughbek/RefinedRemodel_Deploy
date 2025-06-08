@@ -2426,7 +2426,11 @@ ul.post-meta {
     text-align: right;
 }
 
-.hx-about-style-1 .hx-about-img:before,
+.hx-about-img img{
+    filter: brightness(70%);
+}
+
+/* .hx-about-style-1 .hx-about-img:before,
 .hx-about-style-2 .hx-about-img:before {
     position: absolute;
     left: 68px;
@@ -2435,7 +2439,7 @@ ul.post-meta {
     height: 94%;
     background: rgba(0, 0, 0, .40);
     content: "";
-}
+} */
 
 .hx-about-style-2 .video-btn {
     position: absolute;
