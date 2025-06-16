@@ -35,14 +35,16 @@
 
 <body>
     <div id="videoModal" class="modal">
-        <div class="modalContent">
-            <span class="closeBtn" id="closeModal">&times;</span>
-            <video id="myVideo" controls>
-            <source src="../static/video/Video.mp4" type="video/mp4" />
-            Your browser does not support the video tag.
-            </video>
+        <div class="modalContent" role="dialog" aria-modal="true" aria-labelledby="videoTitle">
+          <span>
+            <img class="closeBtn" id="closeModal" src="/static/images/close.png" alt="close-img">
+          </span>
+          <video id="myVideo" controls preload="none" poster="/static/images/about/load-vd.jpg" playsinline>
+            <source src="/static/video/Video.mp4" type="video/mp4">
+          </video>
         </div>
     </div>
+
     <!-- start preloader -->
     <div class="preloader">
         <div class="sk-cube-grid">
@@ -678,38 +680,43 @@
    <!-- All JavaScript files
 ================================================== -->
 
-    <script>
-        const modal = document.getElementById('videoModal');
-        const openBtn = document.querySelectorAll('.seeMoreBtn');
-        const closeBtn = document.getElementById('closeModal');
-        const video = document.getElementById('myVideo');
+<script>
+  const modal = document.getElementById('videoModal');
+  const openBtns = document.querySelectorAll('.seeMoreBtn');
+  const closeBtn = document.getElementById('closeModal');
+  const video = document.getElementById('myVideo');
 
-        // Show modal
-        openBtn.forEach(el => {
-                el.onclick = function () {
-                modal.style.display = 'block';
-                document.body.style.overflow = 'hidden'; // Disable scroll
-            };
-        });
+  openBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      modal.style.display = 'flex';
+      document.body.style.overflow = 'hidden';
+      video.currentTime = 0;
+      video.load();
+    });
+  });
+
+  function closeModal() {
+    modal.style.display = 'none';
+    video.pause();
+    document.body.style.overflow = '';
+  }
+
+  closeBtn.addEventListener('click', closeModal);
+
+  modal.addEventListener('click', (e) => {
+    if (e.target === modal) {
+      closeModal();
+    }
+  });
 
 
-        // Close modal with close button
-        closeBtn.onclick = function () {
-        modal.style.display = 'none';
-        video.pause();
-        document.body.style.overflow = ''; // Enable scroll
-        };
+  document.addEventListener('keydown', function(e) {
+    if (e.key === "Escape" && modal.style.display === 'flex') {
+      closeModal();
+    }
+  });
+</script>
 
-        // Close modal by clicking outside modalContent
-        modal.onclick = function (e) {
-        if (e.target === modal) {
-            modal.style.display = 'none';
-            video.pause();
-            document.body.style.overflow = '';
-        }
-        };
-
-    </script>
   
 
     <script src="../static/js/jquery.min.js"></script>

@@ -1,11 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
     const forms = document.querySelectorAll(".introServiceForm");
     const responseMsgs = document.querySelectorAll(".showMessage");
-    let lang = localStorage.getItem("selectedLanguage") || "en";
-
-
-    console.log(lang);
-    
 
     forms.forEach(form => {
         form.addEventListener("submit", function (e) {
@@ -22,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
             if (!data.name || !data.email || !data.phone || !data.message) {
                 message = {'en':'Please fill in all fields!', 'es': '¡Por favor, rellena todos los campos!'}
-                showMessage(lang, message, 0)
+                showMessage(message, 0)
                 return;
             }
         
@@ -36,18 +31,21 @@ document.addEventListener("DOMContentLoaded", function () {
             })
             .then(res => res.json())
             .then(data => {
-                showMessage(lang, data.message, 1)
+                showMessage(data.message, 1)
                 if (data.status === "success") form.reset();
             })
             .catch(err => {
-                showMessage(lang, 'Something went wrong. Please try again later!', 0)
+                showMessage('Something went wrong. Please try again later!', 0)
                 console.error(err);
             });
         });
     })
 
 
-    function showMessage(lang, message, status) {
+    function showMessage(message, status) {
+        
+        lang = localStorage.getItem("selectedLanguage") || "en";
+        
         responseMsgs.forEach( responseMsg => {
             responseMsg.style.opacity = "1";
             responseMsg.style.height = "auto";
